@@ -1,5 +1,7 @@
 # Dictionnaire des acronymes de l'administration - interface Web
 
+> version 0.1.0
+
 Les données proviennent de data.gouv.fr : https://www.data.gouv.fr/fr/datasets/dictionnaire-des-acronymes-de-ladministration/
 
 Vous pouvez consulter le dictionnaire à cette adresse : https://colinmaudry.github.io/dictionnaire-acronymes
@@ -13,4 +15,10 @@ Vous pouvez consulter le dictionnaire à cette adresse : https://colinmaudry.git
 
 ## Copyright
 
-Copyright (c) 2018 Derek Eder. Released under the [MIT License](https://github.com/derekeder/csv-to-html-table/blob/master/LICENSE).
+Copyright (c) 2018 Colin Maudry, Derek Eder. Released under the [MIT License](https://github.com/derekeder/csv-to-html-table/blob/master/LICENSE).
+
+## Notes de version
+
+### 0.1.0
+
+- adaptation du code original de Derek Eder
